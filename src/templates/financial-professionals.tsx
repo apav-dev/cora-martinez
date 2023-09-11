@@ -27,7 +27,7 @@ export const config: TemplateConfig = {
       "slug",
       "emails",
     ],
-    filter: { savedFilterIds: ["1315957659"] },
+    filter: { entityIds: ["FP-0332"] },
   },
 };
 export const getPath: GetPath<TemplateProps> = ({ document }) => {
